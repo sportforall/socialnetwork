@@ -1,0 +1,30 @@
+ESQUEMA para Memoria de la práctica
+
+Propuesta de esquema para la realización de la memoria
+0.- Resumen ejecutivo.
+
+Breve explicación del proyecto y de sus realizaciones
+
+(Una página explicando el proyecto. Hacedla al final del todo)
+1.- Descripción del proyecto
+
+    Objetivo general
+    Objetivo secundarios
+    Condiciones o contextos
+
+¿qué es lo que queremos hacer?. Basad este punto en el proyecto que presentásteis.
+2.- Descripción de los trabajos realizados
+
+    memoria de actividades
+        lista de tareas realizadas (no calendario)
+    dificultades encontradas
+        y cómo se han superado/obviado
+    grado de ajuste a la planificación propuesta en el proyecto
+
+(basad este punto en la memoria que habéis ido escribiendo)
+3.- Conclusión
+
+    Objetivos cumplidos/no cumplidos
+    limitaciones
+    mejoras
+
